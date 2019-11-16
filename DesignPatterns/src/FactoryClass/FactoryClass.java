@@ -1,4 +1,4 @@
-package FactoryClassDesignPattern;
+package FactoryClass;
 
 public class FactoryClass {
 

@@ -1,4 +1,4 @@
-package FactoryDesignPatterns;
+package FactoryMethod;
 
 public class PointCordinate {
 
